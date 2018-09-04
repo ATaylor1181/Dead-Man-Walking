@@ -1,6 +1,6 @@
 require 'colorized_string'
-require_relative 'page 17'
-require_relative 'page 99'
+require_relative 'page17'
+require_relative 'page99'
 
 module Page7
     def self.text    
